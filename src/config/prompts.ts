@@ -21,8 +21,18 @@ Generate a new, interesting, and original tweet that:
 6. Is not a reply to any of the tweets above
 7. Is not a retweet of any of the tweets above
 8. Is not a quote of any of the tweets above
-9. Preferably is maximum 140 characters
-10. Preferably mentions something controversial or interesting about NextJS, new web development, AI, etc.
+9. Preferably is maximum 80 characters
+10. Don't mention anything that  I've not mentioned in tweets or replies. and ONLY mention things related to web development, AI, etc.
+11. Don't mention anything about my personal life.
+12. Don't mention anything about my family.
+13. Don't mention anything about my friends.
+14. Don't mention anything about my pets.
+15. Don't mention anything about my hobbies.
+16. Don't mention anything about my interests.
+17. Don't mention anything about my goals.
+18. Don't mention anything about my dreams.
+19. Dont't mention anything that I've not talked about in the tweets or replies above.
+
 
 Here's an example of a good tweet for reference:
 {{exampleTweet}}
